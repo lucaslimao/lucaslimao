@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Lucas! 👋
 
+**Senior Full-Stack Engineer | 15+ years experience** 
+
+Bauru, SP 🇧🇷
 <!--
 **lucaslimao/lucaslimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
