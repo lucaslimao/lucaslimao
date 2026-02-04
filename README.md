@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas! 👋
 
-**Senior Full-Stack Engineer | 15+ years experience** 
+**Full-Stack Sr. | 👨‍💻 15+ years experience** 
 
 Bauru, SP 🇧🇷
 <!--
